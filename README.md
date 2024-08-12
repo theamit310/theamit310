@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi I'm Amit👋
 
 <!--
-**theamit310/theamit310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer | AWS Certified | IaC Enthusiast
+
 
 Here are some ideas to get you started:
 
